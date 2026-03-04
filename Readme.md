@@ -69,9 +69,6 @@ In 1989 the training of the CNN took few days.
 * How many bytes are transferred to/from memory by each layer considering the input output, and weights
 
 ---
-## Getting started
-
----
 ## Evaluation Criteria
 * report quality and analysis depth
 * Team presentation (5–10 min)
