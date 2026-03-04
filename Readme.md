@@ -70,5 +70,5 @@ In 1989 the training of the CNN took few days.
 
 ---
 ## Evaluation Criteria
-* report quality and analysis depth
+* Tasks completed in the notebook
 * Team presentation (5–10 min)
