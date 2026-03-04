@@ -5,16 +5,9 @@ Understanding key concepts of machine learning and some basic familiarity with d
 ---
 
 ## Learning Objectives:
-1. Introduction to PyTorch: 
-    * Tensors, Tensor Operations, Visualization 
-2. Understanding ML fundamentals with a real-world convolutional neural network from scratch:
-   * datasets, model training and inference, loss functions, and score functions
+1. Introduction to PyTorch
+2. Understanding ML fundamentals with a real-world convolutional neural network from scratch
 3. Benchmarking and optimization in neural networks
-   * estimation of inference and training time and workload 
-
----
-## Repository Structure
-
 
 ---
 ## Tasks
